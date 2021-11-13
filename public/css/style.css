@@ -1,0 +1,31 @@
+.hero{
+    background-image: url('../images/coffee.jpg'); 
+    margin-top: 5px;
+}
+h2{
+    font-size: 100px;
+    color:gold;
+    text-shadow: rgb(red, green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card1{
+    background-color: lightgrey; 
+}
+.card2{
+    background-color: lightgrey; 
+    
+}
+.card3{
+    background-color: lightgrey; 
+}
+
+.card-title{
+    color:black;
+}
+
+.index{
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
